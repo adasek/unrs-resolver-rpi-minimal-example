@@ -1,0 +1,13 @@
+{
+  "name": "unrs-resolver-rpi-minimal-example",
+  "version": "1.0.0",
+  "description": "A minimal example of using unrs-resolver with Node.js and Yarn",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "unrs-resolver": "latest"
+  }
+}
